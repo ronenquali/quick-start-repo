@@ -20,7 +20,7 @@ inputs:
 
 
 applications:
-  - basic-app:
+  - doesnt-exist-app:
       instances: 1
 
   - advanced-app:
