@@ -1,0 +1,8 @@
+spec_version: 1
+kind: TerraForm
+inputs:
+  - someinput
+module:
+  source: github.com/QualiNext/terraform/s3store
+terraform_version: 0.11.11
+tfvars_file: terraform.tfvars
