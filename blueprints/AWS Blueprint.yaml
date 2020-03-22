@@ -20,7 +20,7 @@ inputs:
 
 
 applications:
-  - doesnt-exist-app:
+  - myservice:
       instances: 1
 
   - advanced-app:
