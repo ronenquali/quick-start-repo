@@ -28,3 +28,4 @@ applications:
       input_values:
         - port_number : $advanced_app_port
 
+internetFacing: NOTABOOLEAN_INVALIDSYNTAX
